@@ -1,2 +1,2 @@
 # Mi-primer-README
-Mi primer repositorio en GitHub
+Repositorio para practicar git pull
