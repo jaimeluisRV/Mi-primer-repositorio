@@ -1,2 +1,2 @@
-# Mi-primer-REDME
+# Mi-primer-README
 Mi primer repositorio en GitHub
